@@ -88,7 +88,8 @@ Do not forget to watch official [video tutorials](https://quasar.dev/video-tutor
 | [Troy Moreland](https://github.com/34fame) | [Medium](https://levelup.gitconnected.com/add-recurring-rules-for-calendar-dates-to-your-application-401e39b56b2f) | Add Recurring Rules for Calendar Dates to Your Application | ^1.12.0 |
 | [Troy Moreland](https://github.com/34fame) | [Medium](https://levelup.gitconnected.com/add-dynamic-forms-to-your-vue-app-609de4005a2b) | Add Dynamic Forms to Your Vue App | ^1.13.0 |
 | [Patrick Monteiro](https://github.com/patrickmonteiro) | [Medium](https://medium.com/building-kovi/criando-um-pwa-com-framework-vue-js-e-quasar-6b7e1fbc743d) | Criando um PWA com Vue.js e Quasar(pt-br) | v1.x |
-| [Joel Olawanle](https://github.com/olawanlejoel) | [Smashing Magazine](https://www.smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/) | An Introduction To Quasar Framework: Building Cross-Platform Applications ||
+| [Joel Olawanle](https://github.com/olawanlejoel) | [Smashing Magazine](https://www.smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/) | An Introduction To Quasar Framework: Building Cross-Platform Applications
+| [Michael Hoffmann](https://mokkapps.de) | [Article](https://mokkapps.de/blog/building-a-vue-3-desktop-app-with-pinia-electron-and-quasar/) | Building a Vue 3 Desktop App With Pinia, Electron and Quasar | v2 |
 
 Do not forget to read the official [blog](https://blog.quasar.dev/).
 
@@ -303,3 +304,4 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Coloban | [Web/PWA](https://app.coloban.com), [Android](https://play.google.com/store/apps/details?id=org.cordova.coloban.app), [Windows/MacOS](https://www.coloban.com/download) | Collaborative task manager + Messsenger: Chat and calls to teammates, TODOs on the fly during conversation, Kanban, Calendar, Gantt, Eisenhower Offline mode, Multiplatform and many more! | v2|
 | Dadadash | [GitHub](https://github.com/daptin/dadadash) | Office suite with file browser, document editor, spreadsheet editor, calendar and data tables with CRUDX API's ready to deploy | v1.0.0 |
 | BlogToNFT | [website](https://blogtonft.com/) | BlogToNFT is for all the writers/bloggers who wish to create their own NFT. At BlogToNFT a blogger/writer will have to prove their ownership and after adding details they can easily publish NFT straightaway into the Blockchain which is also visible on opensea | v1.0.0 |
+| Scrum Daily Standup Picker | [GitHub](https://github.com/Mokkapps/scrum-daily-standup-picker/) | An Electron desktop application which can be used in Scrum teams to initiate the daily Scrum meeting.  | v2 |
